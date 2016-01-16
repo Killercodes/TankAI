@@ -1,0 +1,13 @@
+License Agreement on Use of TankAI software
+
+By accepting this agreement you express your approval of the conditions and terms hereof and you are bound thereby.  Should you disagree with the conditions and terms hereof, promptly terminate the use of this software and destroy any copies thereof or delete the program already downloaded!
+
+1. Providing the License.  The original creators of TankAI grant to you non-exclusive and non-transferable rights thereunder in respect of using a copy of the computer program for a service life thereof, i.e. for a time period throughout which the makers of TankAI shall maintain and make available an updated version thereof.  This particular software version is distributed free of charge, therefore, the applicable license is only granted for home use thereof.  In case of this free version, the program is not subject to any guarantees, and the user has no right to any technical support whatsoever. 
+	
+2. Copyrights.  The computer program subject thereto is and continues to be a property of Michael T. Moosman.  The computer program is also subject to copyrights, and as such it is subject to a full protection thereof.
+	
+3. Use Restrictions. You must not use the program in any manner somehow jeopardizing or violating the manufacturers' copyrights.  Particularly, with regard to the TankAILib.dll file, you must not reproduce the program, change it, modify it, decompile it, transfer it from a mechanical code, reanalyze it or create any deduced works therefrom by processing.  All explicitly non-granted rights are reserved.  Any copy of the program you have been permitted to obtain based hereon must contain a complete copyright and other notices provided at the original duplicate.
+
+4. Assignment Restriction.  This license is provided personally to you and for that reason it does not allow you to make any duplicate (copy) to be sold, or leased in any manner whatsoever to another person.  Any transfer executed in violation of this provision shall be deemed invalid and constitute a reason for termination of your license validity.
+	
+5. Liability Limitation.  The creators of TankAI shall not bare any liability for any damages arisen due to using or inability of using of the aforesaid program.
